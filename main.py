@@ -31,19 +31,18 @@ print(PRO_PLAYERS)
 
 def main():
     for player_tag in PRO_PLAYERS["PRO_PLAYER_LIST"]:
-        # player_tag = "#8QRCJQ9Y"
         # player_tag = "%2328UGR809L" #takano7
         print(player_tag)
         # 宝箱
         # url = TARGET_API+player_tag+"/upcomingchests"
         url = TARGET_API+player_tag+"/battlelog"
 
-    # APIを叩いてプレイヤー情報を取得
+        # APIを叩いてプレイヤー情報を取得
         r = requests.get(url, headers=HEADERS)
         data = r.json()
         print(json.dumps(data, indent=4))
 
-    # JSON FILE作成
+        # JSON FILE作成
         write_file = os.path.join(PLAYER_BATTLE_LOG_DIR, player_tag + "_" + DATE)
         with open(write_file, 'w') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
@@ -51,8 +50,3 @@ def main():
 if __name__ == '__main__':
     sys.exit(main())
 
-# import yaml
-
-# with open('input.yaml') as file:
-#     obj = yaml.load(file)
-#     print(obj['z'])
