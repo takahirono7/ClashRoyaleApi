@@ -1,0 +1,4320 @@
+[
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 29,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+                        },
+                        "name": "Musketeer",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6272
+            }
+        ],
+        "opponent": [
+            {
+                "name": "SQUARE DOGS",
+                "trophyChange": -29,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
+                        },
+                        "name": "Ice Golem",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/1ArKfLJxYo6_NU_S9cAeIrfbXqWH0oULVJXedxBXQlU.png"
+                        },
+                        "name": "Guards",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+                        },
+                        "name": "Royal Hogs",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+                        },
+                        "name": "Hunter",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+                        },
+                        "name": "Lumberjack",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#298LYJJCJ",
+                "clan": {
+                    "name": "AllinForce",
+                    "badgeId": 16000017,
+                    "tag": "#228YYL99"
+                },
+                "startingTrophies": 6266
+            }
+        ],
+        "battleTime": "20181028T022547.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -31,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+                        },
+                        "name": "Musketeer",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6303
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Giuseppe",
+                "trophyChange": 31,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/I1M20_Zs_p_BS1NaNIVQjuMJkYI_1-ePtwYZahn0JXQ.png"
+                        },
+                        "name": "Freeze",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/X_DQUye_OaS3QN6VC9CPw05Fit7wvSm3XegXIXKP--0.png"
+                        },
+                        "name": "Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+                        },
+                        "name": "Mini P.E.K.K.A",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+                        },
+                        "name": "Hog Rider",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#2J8GVP2",
+                "clan": {
+                    "name": "QLASH ITLegends",
+                    "badgeId": 16000043,
+                    "tag": "#9QJURCQ0"
+                },
+                "startingTrophies": 6284
+            }
+        ],
+        "battleTime": "20181028T022221.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -30,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+                        },
+                        "name": "Musketeer",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6333
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Be NormaL",
+                "trophyChange": 30,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+                        },
+                        "name": "Mortar",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
+                        },
+                        "name": "Miner",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#8RR8URG",
+                "clan": {
+                    "name": "GLORY MAKERS",
+                    "badgeId": 16000139,
+                    "tag": "#9L0UYCLV"
+                },
+                "startingTrophies": 6323
+            }
+        ],
+        "battleTime": "20181028T020203.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 31,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Tex1C48UTq9FKtAX-3tzG0FJmc9jzncUZG3bb5Vf-Ds.png"
+                        },
+                        "name": "Musketeer",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6302
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Schwein1101",
+                "trophyChange": -31,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/zVQ9Hme1hlj9Dc6e1ORl9xWwglcSrP7ejow5mAhLUJc.png"
+                        },
+                        "name": "X-Bow",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/16-BqusVvynIgYI8_Jci3LDC-r8AI_xaIYLgXqtlmS8.png"
+                        },
+                        "name": "Fire Spirits",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+                        },
+                        "name": "Skeletons",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
+                        },
+                        "name": "Ice Golem",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/W4Hmp8MTSdXANN8KdblbtHwtsbt0o749BbxNqmJYfA8.png"
+                        },
+                        "name": "Archers",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png"
+                        },
+                        "name": "Tesla",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#92C0RYLC",
+                "clan": {
+                    "name": "HAYUIKOTO",
+                    "badgeId": 16000065,
+                    "tag": "#8V08LPY9"
+                },
+                "startingTrophies": 6321
+            }
+        ],
+        "battleTime": "20181028T015757.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -22,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6324
+            }
+        ],
+        "opponent": [
+            {
+                "name": "el rodris",
+                "trophyChange": 22,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+                        },
+                        "name": "Lava Hound",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+                        },
+                        "name": "Lumberjack",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+                        },
+                        "name": "Inferno Dragon",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 7,
+                        "maxLevel": 8
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#22UCVR0CL",
+                "clan": {
+                    "name": "Rosario™",
+                    "badgeId": 16000063,
+                    "tag": "#9RUYQ0RQ"
+                },
+                "startingTrophies": 6411
+            }
+        ],
+        "battleTime": "20181028T015219.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6324
+            }
+        ],
+        "opponent": [
+            {
+                "name": "DenisitoProx",
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 4,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Mej7vnv4H_3p_8qPs_N6_GKahy6HDr7pU7i9eTHS84U.png"
+                        },
+                        "name": "Wizard",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/0p0gd0XaVRu1Hb1iSG1hTYbz2AN6aEiZnhaAib5O8Z8.png"
+                        },
+                        "name": "Giant Skeleton",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+                        },
+                        "name": "Hog Rider",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 7,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+                        },
+                        "name": "Skeleton Army",
+                        "level": 7,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/jAj1Q5rclXxU9kVImGqSJxa4wEMfEhvwNQ_4jiGUuqg.png"
+                        },
+                        "name": "Knight",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#8C0U29C8",
+                "clan": {
+                    "name": "LOS MONJES",
+                    "badgeId": 16000002,
+                    "tag": "#PQR0J929"
+                },
+                "startingTrophies": 6375
+            }
+        ],
+        "battleTime": "20181028T014633.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 25,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6299
+            }
+        ],
+        "opponent": [
+            {
+                "name": "RamboOo",
+                "trophyChange": -25,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+                        },
+                        "name": "Hog Rider",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+                        },
+                        "name": "Executioner",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Wyjq5l0IXHTkX9Rmpap6HaH08MvjbxFp1xBO9a47YSI.png"
+                        },
+                        "name": "Minion Horde",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 7,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Fmltc4j3Ve9vO_xhHHPEO3PRP3SmU2oKp2zkZQHRZT4.png"
+                        },
+                        "name": "Mini P.E.K.K.A",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/I1M20_Zs_p_BS1NaNIVQjuMJkYI_1-ePtwYZahn0JXQ.png"
+                        },
+                        "name": "Freeze",
+                        "level": 7,
+                        "maxLevel": 8
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#YUQYJV08",
+                "clan": {
+                    "name": "GHOST ARMY",
+                    "badgeId": 16000030,
+                    "tag": "#9GYQ2YYU"
+                },
+                "startingTrophies": 6245
+            }
+        ],
+        "battleTime": "20181028T013858.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 27,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6272
+            }
+        ],
+        "opponent": [
+            {
+                "name": "GLD Gianlu™",
+                "trophyChange": -27,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+                        },
+                        "name": "Ice Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+                        },
+                        "name": "Graveyard",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#8CULY9CV",
+                "clan": {
+                    "name": "Gladiators™️",
+                    "badgeId": 16000007,
+                    "tag": "#PP0L2CCR"
+                },
+                "startingTrophies": 6248
+            }
+        ],
+        "battleTime": "20181028T013356.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6298
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Eptic",
+                "trophyChange": 26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+                        },
+                        "name": "Royal Hogs",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+                        },
+                        "name": "Hunter",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+                        },
+                        "name": "Three Musketeers",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
+                        },
+                        "name": "Ice Golem",
+                        "level": 11,
+                        "maxLevel": 11
+                    }
+                ],
+                "crowns": 3,
+                "tag": "#PP8908JV",
+                "clan": {
+                    "name": "Q8Team",
+                    "badgeId": 16000044,
+                    "tag": "#P0LV0QVV"
+                },
+                "startingTrophies": 6337
+            }
+        ],
+        "battleTime": "20181028T012507.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -33,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6331
+            }
+        ],
+        "opponent": [
+            {
+                "name": "RUBÉN",
+                "trophyChange": 33,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 4,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/M7fXlrKXHu2IvpSGpk36kXVstslbR08Bbxcy0jQcln8.png"
+                        },
+                        "name": "Dark Prince",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
+                        },
+                        "name": "Mega Minion",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
+                        },
+                        "name": "Prince",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+                        },
+                        "name": "Electro Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 3,
+                "tag": "#LPRR9P",
+                "clan": {
+                    "name": "Q8Team",
+                    "badgeId": 16000044,
+                    "tag": "#P0LV0QVV"
+                },
+                "startingTrophies": 6295
+            }
+        ],
+        "battleTime": "20181028T012010.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -25,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6356
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Head Hooligan",
+                "trophyChange": 25,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
+                        },
+                        "name": "Ice Golem",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+                        },
+                        "name": "Royal Hogs",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_J2GhbkX3vswaFk1wG-dopwiHyNc_YiPhwroiKF3Mek.png"
+                        },
+                        "name": "Three Musketeers",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+                        },
+                        "name": "Hunter",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png"
+                        },
+                        "name": "Skeletons",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#8PRQJ80L",
+                "clan": {
+                    "name": "Crucible Wrath",
+                    "badgeId": 16000002,
+                    "tag": "#2LRU2J"
+                },
+                "startingTrophies": 6404
+            }
+        ],
+        "battleTime": "20181028T011712.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -38,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/KV48DfwVHKx9XCjzBdk3daT_Eb52Me4VgjVO7WctRc4.png"
+                        },
+                        "name": "Rascals",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6394
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Lion MG",
+                "trophyChange": 38,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Ubu0oUl8tZkusnkZf8Xv9Vno5IO29Y-jbZ4fhoNJ5oc.png"
+                        },
+                        "name": "Hog Rider",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Ie07nQNK9CjhKOa4-arFAewi4EroqaA-86Xo7r5tx94.png"
+                        },
+                        "name": "Rocket",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/X_DQUye_OaS3QN6VC9CPw05Fit7wvSm3XegXIXKP--0.png"
+                        },
+                        "name": "Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+                        },
+                        "name": "Executioner",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+                        },
+                        "name": "Valkyrie",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lv1budiafU9XmSdrDkk0NYyqASAFYyZ06CPysXKZXlA.png"
+                        },
+                        "name": "Ice Spirit",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 7,
+                        "maxLevel": 8
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#GUVL0GYJ",
+                "clan": {
+                    "name": "Razorth™",
+                    "badgeId": 16000044,
+                    "tag": "#9JY8LPPU"
+                },
+                "startingTrophies": 6290
+            }
+        ],
+        "battleTime": "20181028T011206.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000019,
+            "name": "League 8"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -28,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6422
+            }
+        ],
+        "opponent": [
+            {
+                "name": "SCARFACE $",
+                "trophyChange": 28,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
+                        },
+                        "name": "Prince",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lPOSw6H7YOHq2miSCrf7ZDL3ANjhJdPPDYOTujdNrVE.png"
+                        },
+                        "name": "Mortar",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
+                        },
+                        "name": "Miner",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#2LQ8LQ2V",
+                "clan": {
+                    "name": "ＳＴＡＲ✨ＥＬＩＴＥ",
+                    "badgeId": 16000040,
+                    "tag": "#9UL9GRG8"
+                },
+                "startingTrophies": 6441
+            }
+        ],
+        "battleTime": "20181028T010708.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -29,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6451
+            }
+        ],
+        "opponent": [
+            {
+                "name": "vitin™✌",
+                "trophyChange": 29,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+                        },
+                        "name": "Graveyard",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/EnIcvO21hxiNpoI-zO6MDjLmzwPbq8Z4JPo2OKoVUjU.png"
+                        },
+                        "name": "Bats",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/fAOToOi1pRy7svN2xQS6mDkhQw2pj9m_17FauaNqyl4.png"
+                        },
+                        "name": "Skeleton Army",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Flsoci-Y6y8ZFVi5uRFTmgkPnCmMyMVrU7YmmuPvSBo.png"
+                        },
+                        "name": "Arrows",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 2,
+                "tag": "#RYYV9LQ0",
+                "clan": {
+                    "name": "Dark Light",
+                    "badgeId": 16000122,
+                    "tag": "#PLUC990Y"
+                },
+                "startingTrophies": 6454
+            }
+        ],
+        "battleTime": "20181028T003305.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -25,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6476
+            }
+        ],
+        "opponent": [
+            {
+                "name": "★蛋蛋HJY",
+                "trophyChange": 25,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/mnlRaNtmfpQx2e6mp70sLd0ND-pKPF70Cf87_agEKg4.png"
+                        },
+                        "name": "Royal Giant",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/1ArKfLJxYo6_NU_S9cAeIrfbXqWH0oULVJXedxBXQlU.png"
+                        },
+                        "name": "Guards",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
+                        },
+                        "name": "Mega Minion",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+                        },
+                        "name": "Inferno Dragon",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#Y9P0Q0L8",
+                "clan": {
+                    "name": "Illuminati",
+                    "badgeId": 16000032,
+                    "tag": "#9YGURQUL"
+                },
+                "startingTrophies": 6523
+            }
+        ],
+        "battleTime": "20181028T002416.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 24,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 2,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6452
+            }
+        ],
+        "opponent": [
+            {
+                "name": "CZ",
+                "trophyChange": -24,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/unicRQ975sBY2oLtfgZbAI56ZvaWz7azj-vXTLxc0r8.png"
+                        },
+                        "name": "Lava Hound",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
+                        },
+                        "name": "Miner",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
+                        },
+                        "name": "Mega Minion",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
+                        },
+                        "name": "Prince",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#C2YV2GYP",
+                "clan": {
+                    "name": "GLORY MAKERS",
+                    "badgeId": 16000139,
+                    "tag": "#9L0UYCLV"
+                },
+                "startingTrophies": 6386
+            }
+        ],
+        "battleTime": "20181028T002031.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -27,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6479
+            }
+        ],
+        "opponent": [
+            {
+                "name": "itachi uchiha",
+                "trophyChange": 27,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+                        },
+                        "name": "P.E.K.K.A",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
+                        },
+                        "name": "Battle Ram",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+                        },
+                        "name": "Electro Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#L2899URQ",
+                "clan": {
+                    "name": "Stadium️",
+                    "badgeId": 16000142,
+                    "tag": "#PL0Q9CU0"
+                },
+                "startingTrophies": 6508
+            }
+        ],
+        "battleTime": "20181028T001549.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 35,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6444
+            }
+        ],
+        "opponent": [
+            {
+                "name": "issa",
+                "trophyChange": -35,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+                        },
+                        "name": "Ice Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+                        },
+                        "name": "Graveyard",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#PRCCQGL2",
+                "clan": {
+                    "name": "风暴",
+                    "badgeId": 16000044,
+                    "tag": "#8VRJC2V2"
+                },
+                "startingTrophies": 6506
+            }
+        ],
+        "battleTime": "20181028T001205.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6470
+            }
+        ],
+        "opponent": [
+            {
+                "name": "飛物時",
+                "trophyChange": 26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Axr4ox5_b7edmLsoHxBX3vmgijAIibuF6RImTbqLlXE.png"
+                        },
+                        "name": "Giant",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png"
+                        },
+                        "name": "Miner",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
+                        },
+                        "name": "Mega Minion",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+                        },
+                        "name": "Hunter",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3JntJV62aY0G1Qh6LIs-ek-0ayeYFY3VItpG7cb9I60.png"
+                        },
+                        "name": "Prince",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#CJUUU2GP",
+                "startingTrophies": 6510
+            }
+        ],
+        "battleTime": "20181028T000656.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 32,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 2,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6438
+            }
+        ],
+        "opponent": [
+            {
+                "name": "⚡️Bag⚡️™️",
+                "trophyChange": -32,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NpCrXDEDBBJgNv9QrBAcJmmMFbS7pe3KCY8xJ5VB18A.png"
+                        },
+                        "name": "Night Witch",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/-T_e4YLbuhPBKbYnBwQfXgynNpp5eOIN_0RracYwL9c.png"
+                        },
+                        "name": "Mega Minion",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+                        },
+                        "name": "Golem",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#GPPGVJ",
+                "clan": {
+                    "name": "Team Str¥ng™",
+                    "badgeId": 16000107,
+                    "tag": "#8U0CPGQR"
+                },
+                "startingTrophies": 6471
+            }
+        ],
+        "battleTime": "20181028T000316.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6464
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Wekoh",
+                "trophyChange": 26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Avli3W7BxU9HQ2SoLiXnBgGx25FoNXUSFm7OcAk68ek.png"
+                        },
+                        "name": "Magic Archer",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/ASSQJG_MoVq9e81HZzo4bynMnyLNpNJMfSLb3hqydOw.png"
+                        },
+                        "name": "Royal Hogs",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/VNabB1WKnYtYRSG7X_FZfnZjQDHTBs9A96OGMFmecrA.png"
+                        },
+                        "name": "Hunter",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+                        },
+                        "name": "Electro Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#2L2GYLGU",
+                "clan": {
+                    "name": "La Team PLS",
+                    "badgeId": 16000078,
+                    "tag": "#99Y9PJUY"
+                },
+                "startingTrophies": 6502
+            }
+        ],
+        "battleTime": "20181027T235819.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 30,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 2,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6434
+            }
+        ],
+        "opponent": [
+            {
+                "name": "༉杉ྂ菜包༴࿐",
+                "trophyChange": -30,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/LjSfSbwQfkZuRJY4pVxKspZ-a0iM5KAhU8w-a_N5Z7Y.png"
+                        },
+                        "name": "Tombstone",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/npdmCnET7jmVjJvjJQkFnNSNnDxYHDBigbvIAloFMds.png"
+                        },
+                        "name": "Golem",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/W3dkw0HTw9n1jB-zbknY2w3wHuyuLxSRIAV5fUT1SEY.png"
+                        },
+                        "name": "Ice Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/cjC9n4AvEZJ3urkVh-rwBkJ-aRSsydIMqSAV48hAih0.png"
+                        },
+                        "name": "Baby Dragon",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+                        },
+                        "name": "Inferno Dragon",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Gb0G1yNy0i5cIGUHin8uoFWxqntNtRPhY_jeMXg7HnA.png"
+                        },
+                        "name": "Barbarian Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 8,
+                        "maxLevel": 8
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#9JUUVPGR",
+                "clan": {
+                    "name": "风暴",
+                    "badgeId": 16000044,
+                    "tag": "#8VRJC2V2"
+                },
+                "startingTrophies": 6436
+            }
+        ],
+        "battleTime": "20181027T235144.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": -31,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6465
+            }
+        ],
+        "opponent": [
+            {
+                "name": "kyrios✨",
+                "trophyChange": 31,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/MlArURKhn_zWAZY-Xj1qIRKLVKquarG25BXDjUQajNs.png"
+                        },
+                        "name": "P.E.K.K.A",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
+                        },
+                        "name": "Battle Ram",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png"
+                        },
+                        "name": "Poison",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/RsFaHgB3w6vXsTjXdPr3x8l_GbV9TbOUCvIx07prbrQ.png"
+                        },
+                        "name": "Electro Wizard",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#9PV0G",
+                "clan": {
+                    "name": "Nova l UAE",
+                    "badgeId": 16000044,
+                    "tag": "#P22PUCUL"
+                },
+                "startingTrophies": 6443
+            }
+        ],
+        "battleTime": "20181027T182151.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 30,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6435
+            }
+        ],
+        "opponent": [
+            {
+                "name": "Light of Orion",
+                "trophyChange": -30,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/y5HDbKtTbWG6En6TGWU0xoVIGs1-iQpIP4HC-VM7u8A.png"
+                        },
+                        "name": "Inferno Dragon",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Avli3W7BxU9HQ2SoLiXnBgGx25FoNXUSFm7OcAk68ek.png"
+                        },
+                        "name": "Magic Archer",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/3En2cz0ISQAaMTHY3hj3rTveFN2kJYq-H4VxvdJNvCM.png"
+                        },
+                        "name": "Royal Ghost",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/r05cmpwV1o7i7FHodtZwW3fmjbXCW34IJCsDEV5cZC4.png"
+                        },
+                        "name": "Ice Golem",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/dyc50V2cplKi4H7pq1B3I36pl_sEH5DQrNHboS_dbbM.png"
+                        },
+                        "name": "Battle Ram",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/E6RWrnCuk13xMX5OE1EQtLEKTZQV6B78d00y8PlXt6Q.png"
+                        },
+                        "name": "Lumberjack",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#GV8JJRLY",
+                "clan": {
+                    "name": "Nova l USA",
+                    "badgeId": 16000044,
+                    "tag": "#9JQC2VUU"
+                },
+                "startingTrophies": 6439
+            }
+        ],
+        "battleTime": "20181027T181759.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    },
+    {
+        "team": [
+            {
+                "name": "ＫＫ19212",
+                "trophyChange": 26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/lZD9MILQv7O-P3XBr_xOLS5idwuz3_7Ws9G60U36yhc.png"
+                        },
+                        "name": "Fireball",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/NHflxzVAQT4oAz7eDfdueqpictb5vrWezn1nuqFhE4w.png"
+                        },
+                        "name": "Goblin Gang",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/FSDFotjaXidI4ku_WFpVCTWS1hKGnFh1sxX0lxM43_E.png"
+                        },
+                        "name": "Spear Goblins",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/aqwxRz8HXzqlMCO4WMXNA1txynjXTsLinknqsgZLbok.png"
+                        },
+                        "name": "Cannon Cart",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QWDdXMKJNpv0go-HYaWQWP6p8uIOHjqn-zX7G0p3DyM.png"
+                        },
+                        "name": "Bandit",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png"
+                        },
+                        "name": "The Log",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/CoZdp5PpsTH858l212lAMeJxVJ0zxv9V-f5xC8Bvj5g.png"
+                        },
+                        "name": "Goblin Barrel",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/bAwMcqp9EKVIKH3ZLm_m0MqZFSG72zG-vKxpx8aKoVs.png"
+                        },
+                        "name": "Princess",
+                        "level": 5,
+                        "maxLevel": 5
+                    }
+                ],
+                "crowns": 1,
+                "tag": "#RU2CC2LG",
+                "clan": {
+                    "name": "not draw",
+                    "badgeId": 16000097,
+                    "tag": "#9VJ9V00C"
+                },
+                "startingTrophies": 6409
+            }
+        ],
+        "opponent": [
+            {
+                "name": "LucioKill",
+                "trophyChange": -26,
+                "cards": [
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/0lIoYf3Y_plFTzo95zZL93JVxpfb3MMgFDDhgSDGU9A.png"
+                        },
+                        "name": "Valkyrie",
+                        "level": 11,
+                        "maxLevel": 11
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/yHGpoEnmUWPGV_hBbhn-Kk-Bs838OjGzWzJJlQpQKQA.png"
+                        },
+                        "name": "Minions",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/9XL5BP2mqzV8kza6KF8rOxrpCZTyuGLp2l413DTjEoM.png"
+                        },
+                        "name": "Executioner",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/SU4qFXmbQXWjvASxVI6z9IJuTYolx4A0MKK90sTIE88.png"
+                        },
+                        "name": "Bowler",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/7dxh2-yCBy1x44GrBaL29vjqnEEeJXHEAlsi5g6D1eY.png"
+                        },
+                        "name": "Zap",
+                        "level": 13,
+                        "maxLevel": 13
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/Icp8BIyyfBTj1ncCJS7mb82SY7TPV-MAE-J2L2R48DI.png"
+                        },
+                        "name": "Graveyard",
+                        "level": 5,
+                        "maxLevel": 5
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/I1M20_Zs_p_BS1NaNIVQjuMJkYI_1-ePtwYZahn0JXQ.png"
+                        },
+                        "name": "Freeze",
+                        "level": 8,
+                        "maxLevel": 8
+                    },
+                    {
+                        "iconUrls": {
+                            "medium": "https://api-assets.clashroyale.com/cards/300/QJB-QK1QJHdw4hjpAwVSyZBozc2ZWAR9pQ-SMUyKaT0.png"
+                        },
+                        "name": "Tornado",
+                        "level": 8,
+                        "maxLevel": 8
+                    }
+                ],
+                "crowns": 0,
+                "tag": "#QCCVQY9",
+                "clan": {
+                    "name": "GAME OVER",
+                    "badgeId": 16000029,
+                    "tag": "#990C8L20"
+                },
+                "startingTrophies": 6371
+            }
+        ],
+        "battleTime": "20181027T181229.000Z",
+        "gameMode": {
+            "id": 72000006,
+            "name": "Ladder"
+        },
+        "type": "PvP",
+        "deckSelection": "collection",
+        "arena": {
+            "id": 54000020,
+            "name": "League 9"
+        }
+    }
+]
